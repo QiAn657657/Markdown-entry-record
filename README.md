@@ -55,7 +55,9 @@ ___
 
 ![上一级的](..\\2.png)
 
-## 接下来开始制表  
+![net](https://ts1.cn.mm.bing.net/th/id/R-C.6b9074faed6dae2a0457e690c2aa3a03?rik=6V%2fv2rXhPCf7Pg&riu=http%3a%2f%2fn.sinaimg.cn%2fsinacn20115%2f534%2fw1280h854%2f20190221%2f9461-htknpmf9890147.jpg&ehk=RyGDdQrMiIWbz7Uxa%2fLSPOz2iXvM8JpbkBIZgttQkWc%3d&risl=&pid=ImgRaw&r=0)
+
+## 制表  
 
 |表头|表格|表格|
 |:--- |-:|:-:|
@@ -71,7 +73,7 @@ ___
 
 $$f(x)=cos(x)+sin(x)$$
 
-这是矩阵
+矩阵
 $$
 \begin{Bmatrix}
 a&b \\
